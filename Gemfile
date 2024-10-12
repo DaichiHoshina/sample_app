@@ -24,7 +24,7 @@ gem "turbo-rails"
 
 # Hotwire's モダンなフロントエンド
 gem "stimulus-rails"
-
+gem "bcrypt"
 # CSSバンドラー
 gem "cssbundling-rails"
 
